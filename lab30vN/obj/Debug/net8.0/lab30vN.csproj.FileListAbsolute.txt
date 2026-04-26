@@ -1,0 +1,11 @@
+C:\Users\admin\lab30vN\bin\Debug\net8.0\lab30vN.deps.json
+C:\Users\admin\lab30vN\bin\Debug\net8.0\lab30vN.dll
+C:\Users\admin\lab30vN\bin\Debug\net8.0\lab30vN.pdb
+C:\Users\admin\lab30vN\obj\Debug\net8.0\lab30vN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\lab30vN\obj\Debug\net8.0\lab30vN.AssemblyInfoInputs.cache
+C:\Users\admin\lab30vN\obj\Debug\net8.0\lab30vN.AssemblyInfo.cs
+C:\Users\admin\lab30vN\obj\Debug\net8.0\lab30vN.csproj.CoreCompileInputs.cache
+C:\Users\admin\lab30vN\obj\Debug\net8.0\lab30vN.dll
+C:\Users\admin\lab30vN\obj\Debug\net8.0\refint\lab30vN.dll
+C:\Users\admin\lab30vN\obj\Debug\net8.0\lab30vN.pdb
+C:\Users\admin\lab30vN\obj\Debug\net8.0\ref\lab30vN.dll
